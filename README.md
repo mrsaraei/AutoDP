@@ -1,2 +1,2 @@
 # AutoDP
-Automated Data Preparation
+**Automated Data Preparation for Machine Learning Models**
